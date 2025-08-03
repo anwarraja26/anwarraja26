@@ -1,43 +1,68 @@
 <h1 align="center">Hi 👋, I'm Anwar Raja</h1>
 <h3 align="center">A passionate developer exploring the intersection of AI and Web Technologies</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anwarraja26&label=Profile%20views&color=0e75b6&style=flat" alt="anwarraja26" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anwarraja26" alt="anwarraja26" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 - 🔭 I’m currently working on **Generative AI frameworks and automation tools**
+  - Exploring **LangChain**, **LlamaIndex**, and **RAG pipelines**
 
-- 🌱 I’m currently learning **GEN AI Frame works: LangChain, LlamaIndex, MCP and Retrieval-Augmented Generation (RAG)**
+- 👯 I’m looking to collaborate on **AI-powered web applications**  
+  - Projects that combine **frontend, backend, and machine learning**
 
-- 👯 I’m looking to collaborate on **AI-powered web applications Projects that combine frontend, backend, machine learning and GEN AI**
+- 🤝 I’m looking for help with **scaling full-stack AI applications**  
+  - Especially in **deployment, optimization**, and **feedback loops**
 
-- 🤝 I’m looking for help with **Scalable full-stack AI applications**
-
-- 👨‍💻 All of my projects are available at [https://github.com/anwarraja26](https://github.com/anwarraja26)
+- 🌱 I’m currently learning **LangChain, LlamaIndex, Vector Databases, and Streamlit**
 
 - 💬 Ask me about **React, Vue.js, GSAP, Machine Learning, or building AI assistants**
 
-- 📫 How to reach me **anwarraja.a2023ai-ds@sece.ac.in**
+- 📫 How to reach me: **anwar.rajaaids@example.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14JhYDNuB0y_5OEE3PjiEq2Sd1YbcKucE/view?usp=drive_link](https://drive.google.com/file/d/14JhYDNuB0y_5OEE3PjiEq2Sd1YbcKucE/view?usp=drive_link)
+- 👨‍💻 Notable Projects:
+  - 🔹 [AI Travel Planner](https://github.com/anwarraja26/ai-travel-planner) – Full-stack AI trip planning app  
+  - 🔹 [Focus AI Extension](https://github.com/anwarraja26/focus-ai-extension) – Chrome extension to overcome distractions  
+  - 🔹 Plus many small **web dev** and **ML model** projects
 
-- ⚡ Fun fact **I automate my distractions with AI so I can focus better!!!**
+- 📝 I regularly write articles on: [My Blog](https://yourblog.com)
 
-<h3 align="left">Connect with me:</h3>
+- 📄 Know about my experiences: [My Resume](https://yourresume.com)
+
+- ⚡ Fun fact: **I automate distractions with AI so I can stay focused! 😄**
+
+---
+
+## 🛠️ Languages and Tools
+
 <p align="left">
-<a href="https://linkedin.com/in/anwarraja2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anwarraja2005" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/anwarrajaa2023" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anwarrajaa2023" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anwarraja_a20231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anwarraja_a20231" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/anwarraja.a2023ai-ds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="anwarraja.a2023ai-ds" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anwarraja7088" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anwarraja7088" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/anwarrajaamkrm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anwarrajaamkrm" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LangChain-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anwarraja26&show_icons=true&locale=en&layout=compact" alt="anwarraja26" /></p>
+## 📊 GitHub Stats & Snake Contribution
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anwarraja26&show_icons=true&locale=en" alt="anwarraja26" /></p>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anwarraja26&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwarraja26&layout=compact&theme=radical" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anwarraja26&" alt="anwarraja26" /></p>
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anwarraja26/anwarraja26/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+---
+
+<!-- Optional: Visitor badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anwarraja26&label=Profile%20views&color=0e75b6&style=flat" alt="anwarraja26" />
+</p>
