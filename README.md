@@ -54,12 +54,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anwarraja26/anwarraja26/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-
 
 ---
 
