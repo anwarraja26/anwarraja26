@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **React, Vue.js, GSAP, Machine Learning, or building AI assistants**
 
-- 📫 How to reach me: **anwar.rajaaids@example.com**
+- 📫 How to reach me: **anwarraja.a2023ai-ds@sece.ac.in**
 
 - 👨‍💻 Notable Projects:
   - 🔹 [AI Travel Planner](https://github.com/anwarraja26/ai-travel-planner) – Full-stack AI trip planning app  
