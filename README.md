@@ -73,14 +73,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anwarraja26&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwarraja26&layout=compact&theme=radical" />
-</p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anwarraja26&label=Profile%20views&color=0e75b6&style=flat" />
