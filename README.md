@@ -1,51 +1,79 @@
 <h1 align="center">Hi 👋, I'm Anwar Raja</h1>
-<h3 align="center">A passionate developer exploring the intersection of AI and Web Technologies</h3>
+<h3 align="center">Software Developer | AI & Data Science Undergraduate</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
-- 🔭 I’m currently working on **Generative AI frameworks and automation tools**
-  - Exploring **LangChain**, **LlamaIndex**, and **RAG pipelines**
-
-- 👯 I’m looking to collaborate on **AI-powered web applications**  
-  - Projects that combine **frontend, backend, and machine learning**
-
-- 🤝 I’m looking for help with **scaling full-stack AI applications**  
-  - Especially in **deployment, optimization**, and **feedback loops**
-
-- 🌱 I’m currently learning **LangChain, LlamaIndex, Vector Databases, and Streamlit**
-
-- 💬 Ask me about **React, Vue.js, GSAP, Machine Learning, or building AI assistants**
-
-- 📫 How to reach me: **anwarraja.a2023ai-ds@sece.ac.in**
-
-- 👨‍💻 Notable Projects:
-  - 🔹 [AI Travel Planner](https://github.com/anwarraja26/ai-travel-planner) – Full-stack AI trip planning app  
-  - 🔹 [Focus AI Extension](https://github.com/anwarraja26/focus-ai-extension) – Chrome extension to overcome distractions  
-  - 🔹 Plus many small **web dev** and **ML model** projects
-
-- 📝 I regularly write articles on: [My Blog](https://yourblog.com)
-
-- 📄 Know about my experiences: [My Resume](https://yourresume.com)
-
-- ⚡ Fun fact: **I automate distractions with AI so I can stay focused! 😄**
-
----
-
-## 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-LangChain-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<p align="center">
+  I enjoy building scalable software systems and AI-powered applications,  
+  blending strong problem-solving skills with modern web technologies.
 </p>
 
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
 ---
 
-## 📊 GitHub Stats & Snake Contribution
+## 🚀 About Me
+
+- 🎓 B.Tech in **Artificial Intelligence & Data Science**
+- 💻 Interested in **Software Development, Full-Stack Engineering, and Applied AI**
+- 🧠 Strong foundation in **Data Structures & Algorithms, OOP, and System Thinking**
+- 🤖 Exploring **Generative AI**, **LLMs**, and **Retrieval-Augmented Generation (RAG)**
+- 📈 Passionate about writing **clean, efficient, and scalable code**
+
+---
+
+## 🧠 What I’m Currently Learning
+
+- **LangChain & LlamaIndex**
+- **Vector Databases & Semantic Search**
+- **Generative AI application architectures**
+- **Streamlit for rapid AI app prototyping**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+- C++
+- Python
+- JavaScript
+
+### 🌐 Web & Frameworks
+- React.js
+- Node.js
+- Express.js
+- Tailwind CSS
+
+### 🤖 AI / ML
+- LangChain
+- LlamaIndex
+- Scikit-learn
+- Pandas, NumPy
+
+### 🧰 Tools
+- Git & GitHub
+- VS Code
+- Jupyter / Google Colab
+- Firebase
+
+---
+
+## 📊 Competitive Programming
+
+- 🧩 **700+ DSA problems solved**
+- 🟢 **LeetCode Rating: 1700+ (Top ~12%)**
+- ⭐ HackerRank: 5★ in C & Python
+- 🟤 CodeChef: Bronze badge
+
+---
+
+## 📫 Let’s Connect
+
+- 📧 Email: **anwarraja.a2023ai-ds@sece.ac.in**
+- 💼 LinkedIn: [Anwar Raja](https://www.linkedin.com/in/anwar-raja-4a20b1283/)
+- 💻 GitHub: [github.com/anwarraja26](https://github.com/anwarraja26)
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anwarraja26&show_icons=true&theme=radical" />
@@ -54,10 +82,6 @@
 
 ---
 
-
----
-
-<!-- Optional: Visitor badge -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anwarraja26&label=Profile%20views&color=0e75b6&style=flat" alt="anwarraja26" />
+  <img src="https://komarev.com/ghpvc/?username=anwarraja26&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
